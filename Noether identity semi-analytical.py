@@ -1,3 +1,4 @@
+# This code is created by P.Das from BUTex, Bangladesh
 # pinn_noether_fgm_cylinder.py
 # Single-file PyTorch PINN for:
 # sigma(r), S(r), R(r), G(r), and conservation constant C
